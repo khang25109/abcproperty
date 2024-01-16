@@ -1,0 +1,19 @@
+.rightcolumn{
+    align-content: center;
+    padding: 20px 100px 0 100px;
+}
+.card{
+    align-items: center;
+    justify-content: center;
+    padding: 20px ;
+}
+.card input{
+    width: 500px;
+}
+.footer {
+    padding: 20px;
+
+    text-align: center;
+    background: #ddd;
+    margin-top: 400px;
+  }
